@@ -1,13 +1,8 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        if not nums:
-            return 0
+        unique = sorted(set(nums))
 
-        k = 1
+        for i in range(len(unique)):
+            nums[i] = unique[i]
 
-        for i in range(1, len(nums)):
-            if nums[i] != nums[k - 1]:
-                nums[k] = nums[i]
-                k += 1
-
-        return k
+        return len(unique)
