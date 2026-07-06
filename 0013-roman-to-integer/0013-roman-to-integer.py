@@ -1,7 +1,5 @@
 class Solution(object):
-    def romanToInt(self,s):
-        s = s.upper()
-
+    def romanToInt(self, s):
         value = {
             'I': 1,
             'V': 5,
@@ -12,13 +10,17 @@ class Solution(object):
             'M': 1000
         }
 
-        finalValue = 0
+        total = 0
+        prev = 0
 
-        for i in range(len(s)):
-            if i < len(s) - 1 and value[s[i]] < value[s[i + 1]]:
-                finalValue -= value[s[i]]
+        for ch in reversed(s):
+            curr = value[ch]
+
+            if curr < prev:
+                total -= curr
             else:
-                finalValue += value[s[i]]
+                total += curr
 
-        return finalValue
-        
+            prev = curr
+
+        return total
