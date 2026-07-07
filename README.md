@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/S0hanbd/Competitive_Programming/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S0hanbd/Competitive_Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/S0hanbd/Competitive_Programming/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/S0hanbd/Competitive_Programming/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/S0hanbd/Competitive_Programming/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/S0hanbd/Competitive_Programming/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S0hanbd/Competitive_Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/S0hanbd/Competitive_Programming/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/S0hanbd/Competitive_Programming/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/S0hanbd/Competitive_Programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
