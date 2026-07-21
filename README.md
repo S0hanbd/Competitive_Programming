@@ -20,6 +20,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/S0hanbd/Competitive_Programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/S0hanbd/Competitive_Programming/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/S0hanbd/Competitive_Programming/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/S0hanbd/Competitive_Programming/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
